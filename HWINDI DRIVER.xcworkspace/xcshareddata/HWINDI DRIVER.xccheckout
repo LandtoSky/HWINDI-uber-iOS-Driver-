@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0B7499DE-CA4D-4EB2-A74B-D2679D352EE0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HWINDI DRIVER</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B0E89167A760FDE04916EE385E7D08DEAF17B7C1</key>
+		<string>https://bitbucket.org/pmstar0305/hwindi_driver.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HWINDI DRIVER.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B0E89167A760FDE04916EE385E7D08DEAF17B7C1</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/pmstar0305/hwindi_driver.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B0E89167A760FDE04916EE385E7D08DEAF17B7C1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B0E89167A760FDE04916EE385E7D08DEAF17B7C1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hwindi_driver</string>
+		</dict>
+	</array>
+</dict>
+</plist>

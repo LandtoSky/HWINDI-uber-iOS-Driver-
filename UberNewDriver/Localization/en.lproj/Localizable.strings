@@ -1,0 +1,163 @@
+/*
+ Localizable.strings
+HWindi
+ 
+ Created by Deep Gami on 27/09/14.
+ Copyright (c) 2014 Deep Gami. All rights reserved.
+ */
+
+"REGISTER_FAIL" = "Registration failed.";
+"REGISTER_SUCCESS" = "Thank You for your registration, Please wait while the admin approves your request.";
+"SIGNIN_SUCCESS" = "Welcome";
+"SIGNIN_FAILED" = "The email and password don't match, Please try again.";
+"CAM_NOT_AVAILABLE" = "Camera Not Available";
+"NO_INTERNET" = "Please check your internet connection.";
+"SENDING MAIL" = "Sending mail";
+"OK" = "OK";
+"LOADING" = "Loading...";
+"TERMS" = " Terms & Conditions";
+"PLEASE_WAIT"="Please wait...";
+
+// SIGN VC
+"SIGN_IN" = "Please wait while we sign you in.";
+"SIGN UP" = "Sign Up";
+"SIGN IN" = "Sign In";
+"REGISTER" = "Register";
+"FORGOT_PASSWORD" = "Forgot password ?";
+"SEND PASSWORD" = "Send Password";
+"EMAIL" = "Enter Email";
+"PASSWORD" = "Enter Password";
+"CONFIRM PASSWORD" = "Confirm password";
+
+"Register" = "  Register";
+"OR" = "or";
+"FIRSTNAME" = "First Name";
+"LASTNAME" = "Last Name";
+"PHONE" = "Phone Number";
+"TYPE" = "Type";
+"ADDRESS"="Address";
+"TAXI_MODEL"="Hwindi Model";
+"TAXI_NUMBER"="Registration Number";
+"POSTAL_CODE" = "Postal Code";
+"SELECT YOUR VEHICLE" = "SELECT CAR TYPE";
+"TERMS" = "Terms & Conditions";
+"CANCEL" = "Cancel";
+"TAKE_PHOTO" = "Take a photo";
+"SELECT_IMAGE" = "Select an image";
+
+"INFO"="Please verify fields mark with info sign,you will not be unable to modify these fields in future.";
+"INFO_EMAIL"="Please verify your e-mail address,you will not be able to modify it in future.";
+"INFO_TAXI_NUMBER"="Please verify your taxi number,you will not be unable to modify it in future.";
+"INFO_TAXI_MODEL"="Please verify model of your car,you will not be able to modify it in future.";
+
+//PickMeUp VC
+"WAITING_ADMIN_APPROVE" = "Waiting";
+"MENU" = " Menu";
+"ACCEPT" = "Accept";
+"REJECT" = "Reject";
+"REQUEST_ACCEPTED" = "Requset Accepted";
+"REQUEST_REJECTED" = "Requset Rejected";
+
+//Arrived MapVC
+"WAITING_WALKER_START" = "Waiting for the provider to start.";
+"WAITING_TRIP_START" = "Waiting for the trip to start.";
+"WAITING_TRIP_COMPLETE" = "Waiting for the trip to complete.";
+"WALKER_STARTED" = "Provider has started coming towards you.";
+"WALKER_ARRIVED" = "Provider has arrived at your place.";
+"WALK_STARTED" = "Your trip has been started";
+"JOB_DONE" = "Your trip is completed.";
+"CALL USER" = "CALL USER";
+"TAP WHEN STARTED" = "TAP WHEN STARTED";
+"TAP WHEN ARRIVED" = "TAP WHEN ARRIVED";
+"START TRIP" = "START TRIP";
+"END TRIP" = "END TRIP";
+"CONFIRM" = "CONFIRM";
+"Feedback" = " Feedback";
+"SUBMIT" = "SUBMIT";
+"COMMENT" = "COMMENT";
+"CASH" = "CASH";
+"CARD" = "CARD";
+"COLLECT_CASH" = "Please collect cash from client for your trip.";
+
+//FeedbackVC
+"WAITING_FOR_FEEDBACK" = "Waiting for the provider to provide feedback.";
+"RATING_COMPLETED" = "Thank You for providing feedback.";
+"kms" = "kms";
+"Miles" = "miles";
+"Mins" = "mins";
+"COMMENTS" = "COMMENTS";
+"PLEASE_RATINGS"="Please give ratings to client.";
+
+// HIstory VC
+"LOADING_HISTORY" = "Loading history";
+"History" = " History";
+"Invoice" = "Invoice";
+"BASE PRICE" = "BASE PRICE";
+"DISTANCE COST" = "DISTANCE COST";
+"PROMO BOUNCE" = "PROMO BOUNCE";
+"REFERRAL BOUNCE" = "REFERRAL BOUNCE";
+"per mile" = "per mile";
+"per mins" = "per mins";
+"TIME COST" = "Time Cost";
+"Total Due" = "Total Due";
+"CLOSE" = "Close";
+"Contact Us" = " Contact Us";
+"WANT_SIGNOUT" = "Are you sure you want to sign out?";
+
+// Profile VC
+"UPDATING_PROFILE" = "Updating profile, please wait ...";
+"PROFILE" = " Profile";
+"PROFILE_UPDATED" = "Profile is updated successfully";
+"NAME" = "NAME";
+"NEW_PASSWORD" = "NEW PASSWORD";
+"CURRENT_PASSWORD" = "CURRENT PASSWORD";
+"CONFIRM_PASSWORD" = "CONFIRM NEW PASSWORD";
+"UPDATE_PROFILE" = "Update Profile";
+"NOT_EDITABLE"="This field is not editable.";
+
+//Forgot Password
+"PASSWORD_SENT_SUCCESS" = "Your password has been sent to your registered email.";
+"ERROR"="Oops! An error occured, Please try again.";
+
+//Setting VC
+
+"AVAILABILITY_UPDATE"="Your availability has been updated";
+"Setting" = " Setting";
+"Settings" = " Settings";
+"Available to drive?" = "Available to drive?";
+"Sound" = "Sound";
+"YES" = "YES";
+"NO" = "NO";
+"ON" = "ON";
+"OFF" = "OFF";
+"Share" = " Share";
+"Contact Us" = "Contact Us";
+"SIGN_OUT" = "Sign Out";
+
+// register VC
+
+"PLEASE_FIRST_NAME"="Please enter a first name.";
+"PLEASE_LAST_NAME"="Please enter a last name.";
+"PLEASE_NAME"="Please enter a name.";
+"PLEASE_BIRTHDATE"="Please enter a birthdate.";
+"PLEASE_EMAIL"="Please enter a email address.";
+"PLEASE_NUMBER"="Please enter a number.";
+"PLEASE_PASSWORD"="Please enter a password.";
+"PLEASE_RETYPE_PASSWORD"="Please retype a password.";
+"NOT_MATCH_RETYPE"="Password mismatch, please retype.";
+"PLEASE_TAXI_MODEL" = "Please enter a hwindi model.";
+"PLEASE_TAXI_NUMBER" = "Please enter a registration number.";
+"PLEASE_NUMBER_MIN" = "Please enter at least 10 digits in phone number.";
+"PLEASE_VALID_EMAIL"="Please enter a valid email address.";
+"PLEASE_PHOTO" = "Please select a profile photo.";
+"PLEASE_CAR_TYPE" = "Please select your vehicle type.";
+
+"REGISTER_SUCCESS"="Successfully registered!";
+"REGISTER_FAIL"="Registration failed. Please try again.";
+"TODAY" = "Today";
+"YESTERDAY" = "Yesterday";
+
+
+// Logout
+"WAITING_LOGOUT" = "Waiting for logout";
+"LOGGED_OUT" = "Logged out";
